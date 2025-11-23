@@ -1,0 +1,5 @@
+{
+  "name": "React Auction App",
+  "description": "A modern, fully functional web application for an online auction that runs entirely on the client-side, using local storage for data persistence.",
+  "requestFramePermissions": []
+}
